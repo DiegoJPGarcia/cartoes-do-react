@@ -1,0 +1,6 @@
+.app .cards{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;/*ele permite quebra de linha se mudar para nowrap*/
+}
